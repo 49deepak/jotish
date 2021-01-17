@@ -933,10 +933,14 @@ button:focus {
 .ast_about_info h4 {
   float: left;
   width: 100%;
-  font-size: 20px;
+  font-size: 30px;
   margin-top: 0px;
   margin-bottom: 15px;
   text-transform: capitalize;
+}
+b, optgroup, strong {
+  color: #fb8029;
+  font-weight: 900;
 }
 .ast_about_info p {
   float: left;
